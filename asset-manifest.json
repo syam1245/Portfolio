@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/syam1245/portfolio.git/static/css/main.db798329.css",
+    "main.js": "/syam1245/portfolio.git/static/js/main.1cc56adc.js",
+    "index.html": "/syam1245/portfolio.git/index.html",
+    "main.db798329.css.map": "/syam1245/portfolio.git/static/css/main.db798329.css.map",
+    "main.1cc56adc.js.map": "/syam1245/portfolio.git/static/js/main.1cc56adc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db798329.css",
+    "static/js/main.1cc56adc.js"
+  ]
+}
